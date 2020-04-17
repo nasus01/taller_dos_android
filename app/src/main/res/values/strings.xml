@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Juego Aleatorio</string>
+    <string name="game">Aleatorio</string>
+    <string name="number">Ingrese un numero del 1  a 100 </string>
+    <string name="button">Lanzar</string>
+    <string name="button2">Salir</string>
+    <string name="result">resultado</string>
+
+</resources>
